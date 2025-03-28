@@ -1,4 +1,4 @@
-<h1 align="center">ALOOO aku Rajhaga Jevanya Meliala</h1>
+<h1 align="center">Rajhaga Jevanya Meliala</h1>
 <h3 align="center">website developer data enthuastic Python lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajhaga&label=Profile%20views&color=0e75b6&style=flat" alt="rajhaga" /> </p>
